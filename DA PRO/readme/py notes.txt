@@ -1,0 +1,6 @@
+IDLE:
+in python pandas,matplotlib are used tools for this datasets
+data cleaning(pandas) and visualization(matplotlib)
+visualized by scatter chart
+because for simple to learn and see
+
